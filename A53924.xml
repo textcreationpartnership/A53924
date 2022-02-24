@@ -1,0 +1,257 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jericho's downfal, in a sermon preached upon Jan. 31, 1688/89 being a day of publick thanksgiving to God for our deliverance from popery and arbitrary power / by Samuel Peck, Minister of Popler.</title>
+            <author>Peck, Samuel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53924</idno>
+            <idno type="STC">Wing P1035</idno>
+            <idno type="STC">ESTC R1038</idno>
+            <idno type="EEBO-CITATION">11875640</idno>
+            <idno type="OCLC">ocm 11875640</idno>
+            <idno type="VID">50215</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53924)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50215)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 504:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Jericho's downfal, in a sermon preached upon Jan. 31, 1688/89 being a day of publick thanksgiving to God for our deliverance from popery and arbitrary power / by Samuel Peck, Minister of Popler.</title>
+                  <author>Peck, Samuel.</author>
+               </titleStmt>
+               <extent>[2], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Parkhurst...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Joshua VI, 26 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:50215:1"/>
+               <pb facs="tcp:50215:1" rendition="simple:additions"/>
+JERICHO'S Downfal;</p>
+            <p>IN A SERMON Preached upon <hi>Jan.</hi> 31. 1688/9.</p>
+            <p>Being a day of Publick Thanks<g ref="char:EOLhyphen"/>giving to God for our Deliverance FROM Popery and Arbitrary Power.</p>
+            <p>By <hi>Samuel Peck</hi> Miniſter of <hi>Popler.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Parkhurſt</hi> at the <hi>Bible</hi> and <hi>Three Crowns</hi> at the lower end of <hi>Cheapſide</hi> near <hi>Mercers Chapel.</hi> 1689.</p>
+            <pb facs="tcp:50215:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:50215:2" rendition="simple:additions"/>
+            <head>
+               <q>
+                  <bibl>
+                     <hi>Joſhua 6. 26.</hi>
+                  </bibl> Curſed be the man before the Lord, that riſeth up and buildeth this City <hi>Jericho.</hi>
+               </q>
+            </head>
+            <p>THE Notion of Doctrine or a Purga<g ref="char:EOLhyphen"/>tory in the other life, hath been long ſince exploded as an idle Dream or Fiction, by a great part of the Chriſtian world. But that a double Purgatory attends the Church and People of God, in this Life, all ſound Chriſtians firmly believe; the one of <hi>Water,</hi> the other of <hi>Fire.</hi> The former that great Apoſtle St. <hi>Paul</hi> ſtiles the <hi>waſhing of Re<g ref="char:EOLhyphen"/>generation;</hi> 
+               <note place="margin">Tit. 3. 5.</note> the other St. <hi>Peter</hi> calls the <note place="margin">1 Pet. 4. 12.</note> 
+               <hi>Fiery Tryal.</hi> And no ſooner almoſt are they
+<pb n="2" facs="tcp:50215:3"/>
+paſſed through the one, the Water of Bap<g ref="char:EOLhyphen"/>tiſm, but inſtantly they are plunged into the other, the Fire of Affliction; and both are needful. That they may be cleanſed and made like to Chriſt in Purity and Holineſs, the <hi>Laver of Regeneration,</hi> or waſhing of the <note place="margin">Iſa. 27. 9. Heb. 12. 10.</note> New Birth is neceſſary: And that they may be made <hi>conformable to Chriſt in ſuffering,</hi> the Fiery Tryal is neceſſary alſo. It may ſeem ſtrange indeed; that Afflictions and Troubles ſhould await Heavens darling, Gods beloved, the Spouſe or Church of Chriſt; yet 'tis <hi>ſo</hi> 
+               <note place="margin">Rom. 8. 29. 1 Theſ. 3. 3.</note> 
+               <hi>predeſtinated,</hi> 'tis ſo <hi>appointed,</hi> ſaith St. <hi>Paul,</hi> for their purification, not their deſtruction; no, Chriſt hath ſaid, <hi>The Gates of Hell ſhall not prevail againſt his Church</hi> to deſtroy it. Tho' God may ſuffer his People, as the Prophet, <hi>Iſa.</hi> ſpeaks, <hi>to paſs through the Fire, and through</hi> 
+               <note place="margin">Iſa. 43. 2.</note> 
+               <hi>the Water,</hi> to Try, Purge, Refine and Prove them; yet is he ſo far from intending their deſtruction, that he hath breathed forth ma<g ref="char:EOLhyphen"/>ny terrible threatnings againſt, yea en<g ref="char:EOLhyphen"/>tails an heavy curſe upon thoſe that ſeek or endeavour his Churches Extirpation and Ruine, by upholding and maintaining the
+<pb n="3" facs="tcp:50215:3"/>
+profeſſed and Implacable Enemies thereof, ſaying,<hi>—Curſed be the man before the Lord, that riſeth up and buildeth this City</hi> Jericho. Whereupon <hi>Joſhua</hi> here <hi>adjures</hi> or chargeth them that they put not their helping hand to this work, for whoever ſhall do it, <hi>is curſed before the Lord: And</hi> Joſhua <hi>adjured them at that time, ſaying, Curſed be the man before the Lord, that buildeth this City</hi> Jericho.</p>
+            <p>In this Chapter you have the Story of the Overthrow and Conqueſt of that once famous City <hi>Jericho,</hi> with the reaſon of it. It ſeems, it ſtood in the way to hinder Gods People in their paſſage to <hi>Canaan,</hi> the Land of pro<g ref="char:EOLhyphen"/>miſe, and therefore down it muſt, it muſt be removed; God will clear a way for his peo<g ref="char:EOLhyphen"/>ple to what he had promiſed, though he be at the expence of a Miracle to do it; as you find he was here. For <hi>Joſhua</hi> by Gods Di<g ref="char:EOLhyphen"/>rection and Commiſſion <hi>compaſſeth the Walls of the City ſeven days together,</hi> and at laſt (not by Storm and Battery but) by the blaſt of Rams-horns, and the Shout of the People, the Walls fall flat to the ground; <hi>(this was to ſhew the Iſraelites that the Con<g ref="char:EOLhyphen"/>queſt</hi>
+               <pb n="4" facs="tcp:50215:4"/>
+               <hi>was not owing to their power, but to Gods mercy, and what great things God can do for a people by ſmall means, when he pleaſeth.)</hi> Well, the Walls being down, <hi>Joſhua</hi> and the Peo<g ref="char:EOLhyphen"/>ple enter, and deſtroy all that was therein <hi>(Rahab</hi> and her Family only excepted) ſpa<g ref="char:EOLhyphen"/>ring neither man nor Beaſt, Young nor Old, but cut off all with the Edge of the Sword, and then burn the City, as you read in the former part of the Chapter. Now this be<g ref="char:EOLhyphen"/>ing done <hi>(to ſhew what the Enemies of Gods People muſt expect) Joſhua</hi> doth, in the name of God, impoſe a curſe upon him that ſhould go about to build this City again, <hi>ſay<g ref="char:EOLhyphen"/>ing, Curſed be the man before the Lord, that riſeth up and buildeth this City</hi> Jeri<g ref="char:EOLhyphen"/>cho.</p>
+            <p>The Text then, you ſee, contains a curſe breathed forth againſt the Enemies of Gods Church, wherein you have theſe particulars.</p>
+            <list>
+               <item>1. The denuntiation of the Curſe <hi>[Curſed be the man.</hi>
+               </item>
+               <item>2. The Reality and certainty of the curſe expreſſed in theſe words <hi>[Before the Lord.</hi>
+               </item>
+               <item>
+                  <pb n="5" facs="tcp:50215:4"/>
+3. The Subject of the curſe or the perſon curſed <hi>[The man that ſhall riſe up to build the City</hi> Jericho.</item>
+            </list>
+            <p n="1">1. The Denuntiation of the curſe <hi>[Curſed be the man.</hi> We read in Scripture of many curſes denounced both by God and Man: It was an heavy curſe God denounced againſt <hi>Adam, Eve</hi> and the Serpent, for their ſin<hi>:</hi> 
+               <note place="margin">Gen. 3.</note> Our Saviour often poured out Woes and Curſes againſt the Scribes and Phariſees, for <note place="margin">Mat. 23.</note> their hypocriſy<hi>: Moſes</hi> denounceth many cur<g ref="char:EOLhyphen"/>ſes <note place="margin">Deut. 28.</note> againſt the tranſgreſſors of the Law: <hi>Ja<g ref="char:EOLhyphen"/>cob</hi> curſed the wrath of <hi>Simeon</hi> and <hi>Levi, Curſed be their wrath; for it was Cruel.</hi> And <note place="margin">Gen. 49.</note> theſe curſes were often uſed by <hi>Abraham</hi> and the Prophets. What a Roll of curſes have you in <hi>Pſal.</hi> 109. Denounced by the Pro<g ref="char:EOLhyphen"/>phet <hi>David</hi> againſt the Enemies of Gods Church? And ſuch is this of <hi>Joſhua</hi> in my Text, <hi>Curſed be the man that ſhall build this City.</hi>
+            </p>
+            <div type="question">
+               <head>Qu. <hi>But the queſtion is,</hi> Whether <hi>Joſhua</hi> did well to curſe any in this manner, ſince the command is (given by our Saviour) <hi>Bleſs, and curſe not?</hi>
+               </head>
+               <p>
+                  <pb n="6" facs="tcp:50215:5"/>
+                  <hi>Anſ.</hi> Yes, No doubt but <hi>Joſhua</hi> might lawfully do it; becauſe in this he was a Pro<g ref="char:EOLhyphen"/>phet; God had revealed to <hi>Joſhua</hi> thus much, <hi>that the man ſhould be accurſed, that ſhould build the City</hi> Jericho; ſo that he ſpoke this by the Spirit of Prophecy, foreknowing the mind of God in this matter. This plainly appears by what you read, 1 <hi>King</hi> 16. <hi>laſt, In his days</hi> (that is in the days of <hi>Ahab) did</hi> Hiel <hi>the</hi> Beth-elite <hi>build</hi> Jericho; <hi>he laid the foundation thereof in</hi> Abiram <hi>his firſt-born, and ſet up the Gates thereof in his youngeſt Son</hi> Segub (that is in the death of theſe Sons) <hi>according to the word of the Lord, which he ſpoke by</hi> Joſhua <hi>the Son of</hi> Nun, that is in this place, <hi>curſed be the man before the Lord, that riſeth up and buildeth this City</hi> Jericho, <hi>he ſhall lay the foundation thereof in his firſt-born, and in his youngeſt Son ſhall he ſet up the Gates of it.</hi> So then <hi>Joſhua</hi> ſpoke no more, than what God had revealed to him, and which he knew would moſt certainly come to paſs; he did it by the direction and inſpi<g ref="char:EOLhyphen"/>ration of the Holy Ghoſt; for this reaſon <hi>Joſhua</hi> might lawfully denounce this
+<pb n="7" facs="tcp:50215:5"/>
+curſe.—Yet we muſt not hereupon think it lawful for us to curſe our Enemies; No, our Rule is, <hi>Bleſs, and curſe not: Bleſs thoſe that curſe you, and pray for them that deſpite<g ref="char:EOLhyphen"/>fully uſe you and perſecute you,</hi> ſaith our Sa<g ref="char:EOLhyphen"/>viour. It may be a wretched <hi>Goliah,</hi> an un<g ref="char:EOLhyphen"/>circumciſed Philiſtine may accuſtom his mouth to curſes, but ſuch Gall and Poyſon becomes not the mouths of Gods People. Beſides, he that curſeth another, doth in truth curſe himſelf. Obſerve that of <hi>David, Pſal.</hi> 109. 17, 18. <hi>As he loved curſing, ſo let it come unto him, let it come into his Bowels like water, and like Oyl into his Bones.</hi> As the Bird taking her flight from her Neſt, fetcheth a Circuit, and then re<g ref="char:EOLhyphen"/>turns thither again, ſo Curſes come in where they went out, and at laſt return upon our own heads, as Duſt caſt in the Air againſt the Wind. This therefore is not the uſe we are to make of ſuch Examples as this in my Text. But where we meet with Curſes in the Writings of the Prophets and holy men of God, who had the Spirit of Prophecy, we are to apply them to the
+<pb n="8" facs="tcp:50215:6"/>
+Enemies of Gods Church, who ſeek the Ruine of the true Religion, and profeſs an open enmity to the Goſpel and Faith of Chriſt. We may ever with ſafety take Gods part, our Saviours ſide, and curſe all thoſe that are Enemies to him, ſay<g ref="char:EOLhyphen"/>ing, with Deborah <hi>and</hi> Barak; <hi>So let all [thine] Enemies periſh, O Lord:</hi> But for <note place="margin">Judg. 5. 31.</note> our Enemies that have done us any per<g ref="char:EOLhyphen"/>ſonal or private wrong, to curſe them is (as I ſaid before) unwarrantable, un<g ref="char:EOLhyphen"/>charitable and ungodly.—So much of the firſt particular, the denunciation of the curſe, <hi>Curſed be the man.</hi>
+               </p>
+               <p n="2">2. The next is the reality and certain<g ref="char:EOLhyphen"/>ty of the curſe, contained in theſe words, <hi>[before the Lord] curſed be the man before the Lord.</hi> Which words are not added in vain, therefore not to be paſſed by without ſome notice. The meaning is, let him be, or he is curſed indeed: for what is done before the Lord, is truly and ſolemnly done: And therefore the ſenſe is this, That man that ſhall build
+<pb n="9" facs="tcp:50215:6"/>
+this City <hi>Jericho</hi> is curſed of God, the Lord Ratifies and Confirms the curſe, and it ſhall certainly light upon him. There are many curſes, which in this ſenſe are not <hi>before the Lord:</hi> Such are the Popes Bulls and Excommunications againſt Kings and Princes, and all Hereticks, that refuſe Subjection to the Papal Power, Obedience to the See of <hi>Rome:</hi> But the perſons thus curſed with Bell, Book and Candle, are not curſed <hi>before the Lord,</hi> the Lord hath not Ratified and Confirmed the curſe; nay, a curſe unjuſtly denounced and by one, who hath no power to denounce it, is not a curſe, but a bleſſing; As the Pro<g ref="char:EOLhyphen"/>phet ſpeaks of <hi>Balaam</hi>'s curſing <hi>Iſrael, Neh.</hi> 13. 2. <hi>The Lord turned the curſe into a bleſſing;</hi> So where <hi>Rome</hi> curſeth the Lord ſhall bleſs. Therefore we need no more to fear or care for the Popes Curſes than a man in Armor needs to fear an head<g ref="char:EOLhyphen"/>leſs Arrow, or a Childs Pot-gun, for an un<g ref="char:EOLhyphen"/>juſt or an undeſerved curſe hurts not. But when a man is curſed by a qualified perſon, commiſſionated of God, and that for a juſt
+<pb n="10" facs="tcp:50215:7"/>
+cauſe, this is dreadful indeed; for ſuch a one may be ſaid (as in the Text) to <hi>be curſed before the Lord.</hi> And this leads us to conſider the third particular, <hi>viz.</hi>
+               </p>
+               <p n="3">3. The Subject of this curſe, or the perſon curſed <hi>[The man that ſhall riſe up and build this City</hi> Jericho.</p>
+            </div>
+            <div type="question">
+               <head>
+                  <hi>Qu.</hi> And why is there a Curſe denounced a<g ref="char:EOLhyphen"/>gainſt him that ſhall build this City, or why would not <hi>Joſhua</hi> have <hi>Jericho</hi> built a<g ref="char:EOLhyphen"/>gain?</head>
+               <p>
+                  <hi>Anſ.</hi> For theſe Reaſons.</p>
+               <p n="1">1. In obedience to Gods command, who had revealed unto <hi>Joſhua,</hi> that he would curſe the man that built it, and therefore he denounced him accurſed; beſides, you read, <hi>Deut.</hi> 13. 15, 16. That when any City was deſtroyed for its Idolatry and other ſins committed in it, God Com<g ref="char:EOLhyphen"/>mands <hi>it ſhould be an heap for ever, and not be built again;</hi> therefore in Obedience
+<pb n="11" facs="tcp:50215:7"/>
+to Gods Command (which <hi>Joſhua</hi> could not be ignorant of) he would have <hi>Je<g ref="char:EOLhyphen"/>richo</hi> as a ruinous heap for ever, and curſeth the man that ſhould raiſe it out of its Ruines, out of its Aſhes, in which he had laid it by Gods Commiſſion.</p>
+               <p n="2">2. That it might be a remembrance both of Gods Mercy and Juſtice. In mer<g ref="char:EOLhyphen"/>cy to the <hi>Iſraelites</hi> God takes this City by a Miracle; Now that this miraculous work of God might never be forgotten, <hi>Joſhua</hi> would have it remain deſolate; that ſo when People in after ages, beholding the Ruines of it, ſhould enquire the cauſe of its deſtruction, and the reaſon why it ſo remained, this might give occaſion to ſpeak of the mercy of God towards his people.—And alſo of his Ju<g ref="char:EOLhyphen"/>ſtice againſt the Idolatrous Inhabitants of that City whoſe ſins and abomina<g ref="char:EOLhyphen"/>tions had rendred them ripe for Ven<g ref="char:EOLhyphen"/>geance.</p>
+               <p n="3">3. <hi>Joſhua</hi> would (or God rather would)
+<pb n="12" facs="tcp:50215:8"/>
+have it remain a ruinous heap, for terror to the reſt of the Inhabitants of the Land. As great Conquerors uſually ſet up ſome terrible monuments and ſignal examples of Juſtice to terrifie others; ſo this being one of the firſt or chief Cities after their paſſage over <hi>Jordan,</hi> God, to ſtrike terror into others, will have it deſtroyed, with the ſentence of a curſe upon any that ſhould build it again for ever. By which we may take notice what a curſe ſin brings upon moſt famous Cities and Places. <hi>Jeri<g ref="char:EOLhyphen"/>cho</hi> was a goodly place, a City, of Palm<g ref="char:EOLhyphen"/>trees, a fenced City, whoſe Walls reached up to Heaven; yet being a ſinful, an Idolatrous City, what a woful curſe fell upon it, to be utterly deſtroyed and de<g ref="char:EOLhyphen"/>moliſhed, and never to be built again. We have the like inſtances in <hi>Sodom, Gomorrah</hi> and the adjacent Cities, upon which the fire of Gods wrath broke forth and conſumed them in a miraculous man<g ref="char:EOLhyphen"/>ner.</p>
+               <p>Thus you have heard the words run o<g ref="char:EOLhyphen"/>ver
+<pb n="13" facs="tcp:50215:8"/>
+in a literal ſenſe: Now be pleaſed to hear them in the Myſtical, and then you will ſee how well they ſuit the preſent occa<g ref="char:EOLhyphen"/>ſion.</p>
+               <p n="1">1. Firſt then, by way of Analogy and Proportion, there be many that venture upon this curſe by endeavouring to build up <hi>Jericho.</hi> Popery is a Spiritual or My<g ref="char:EOLhyphen"/>ſtical <hi>Jericho;</hi> and how many are there, that in this ſenſe, have put to their hearts, heads and hands to build <hi>Jericho?</hi> Where<g ref="char:EOLhyphen"/>by they ſtop or hinder the Church and People of God from entring into the hea<g ref="char:EOLhyphen"/>venly <hi>Canaan,</hi> as antient <hi>Jericho</hi> did the People of <hi>Iſrael</hi> from entring into the earthly. What Strange and Crafty Means, what Subtil and Wicked Methods have they uſed and ſtill do uſe to raiſe up this building? As by ſhutting out the Light of Gods Truth in thoſe places, where Popery prevails, and is eſtabliſhed. By falſifying and corrupting antient Au<g ref="char:EOLhyphen"/>thors, that there might be none to wit<g ref="char:EOLhyphen"/>neſs againſt them. By labouring to make
+<pb n="14" facs="tcp:50215:9"/>
+diviſions between Kings and their Sub<g ref="char:EOLhyphen"/>jects, where their Religion hath not ob<g ref="char:EOLhyphen"/>tained, that they may bring it in, and have it uppermoſt. By barbarous Homi<g ref="char:EOLhyphen"/>cides and ſecret Murders, to remove thoſe out of the way, that are oppoſers of their deſigns, and by endeavouring to root thoſe out of all places in Church and State, that would not promiſe and engage to pro<g ref="char:EOLhyphen"/>mote the work. It was <hi>Julians</hi> Policy to provide that no Chriſtian ſhould be a General, a Captain, or bear any Office in his Armies. And were not the Jeſuits and Pa<g ref="char:EOLhyphen"/>piſts Promoting and practiſing the ſame Po<g ref="char:EOLhyphen"/>licy amongſt us; when men of Worth and Honour, both in Church and State, were diſplaced, only becauſe they would not ſubſcribe, or ſet to their hands for the building up of <hi>Jericho</hi> again in this Kingdom? And thoſe men advanced to places of greateſt truſt and profit, as well as honour, that were for it, and would any ways contribute to it? There is no end of their Intrigues, Plots and Devices to build up <hi>Jericho</hi> again. Three
+<pb n="15" facs="tcp:50215:9"/>
+moſt publick and notorious attempts (be<g ref="char:EOLhyphen"/>ſides ſmaller eſſays) have they made this way, ſince the fall of their <hi>Jericho</hi> in this Kingdom; or ſince our firſt Reformati<g ref="char:EOLhyphen"/>on; In all which they have been bafled and defeated, through the mercy and good<g ref="char:EOLhyphen"/>neſs of our God, for which we this day praiſe his name.</p>
+               <p n="1">1. The firſt was by a Spaniſh <hi>Armado,</hi> ſtiled the invincible <hi>Armado,</hi> when they came to rebuild their Romiſh <hi>Jericho,</hi> fur<g ref="char:EOLhyphen"/>niſhed with all Inſtruments of Cruelty, and hearts full of confidence that the work would be done, that they ſhould <hi>cut us off from being a Nation, and that the name</hi> of Proteſtant, of Heretick <hi>ſhould be had no more in remembrance.</hi> They were ſo big with hopes, as to ſay with <hi>Moab,</hi> (before the fight) <hi>
+                     <g ref="char:V">Ʋ</g>p</hi> Moab <hi>to the ſpoil;</hi> 
+                  <note place="margin">2 King, 3. 21, 22, 23.</note> up <hi>Rome,</hi> to the ſpoil, for the Victory ſhall be ours; but God, in mercy to us, Croſſed, Curſed that deſign and won<g ref="char:EOLhyphen"/>derfully diſappointed that hopeful enter<g ref="char:EOLhyphen"/>prize.</p>
+               <p n="2">
+                  <pb n="16" facs="tcp:50215:10"/>
+2. Their next was the Powder-Plot, deſigned to cut off the King, the Prince and Royal Family, with all the Noble Peers and Commons (the Flower and Glory of our <hi>Engliſh</hi> Nation) aſſembled in Parliament. Theſe blown up, they doubted not but their Popiſh <hi>Jericho</hi> would be built up. Wherefore, as while <hi>Nehemiah</hi> and his men were at work to make up the Walls of <hi>Jeruſalem,</hi> the adverſaries came upon them to temper the Mortar with their blood, <hi>for they ſaid, they ſhall not ſee nor know, till we come upon them,</hi> 
+                  <note place="margin">Neh. 4. 11.</note> 
+                  <hi>and ſlay them, and cauſe their work to ceaſe:</hi> And as <hi>Pilate</hi> came upon the <hi>Galileans,</hi> when they were ſacrificing, <hi>and mingled their Blood with their Sacri<g ref="char:EOLhyphen"/>fices;</hi> 
+                  <note place="margin">Luke 13. 1, 2.</note> So when both houſes of Parlia<g ref="char:EOLhyphen"/>ment were met to make Laws againſt the rebuilding of Popiſh <hi>Jericho</hi> and for ſettling the true Religion, then did theſe Plotters of <hi>Rome</hi> contrive to blow up thoſe Law-makers, reſolving they ſhould write no Laws but in their own Blood. And what a <hi>Veſuvius</hi> had thoſe houſes
+<pb n="17" facs="tcp:50215:10"/>
+been had the Plot taken, had the blow been given? What an <hi>Aceldama,</hi> what a <hi>Golgotha</hi> had this Land been; what a <hi>Chaos</hi> had our Church and State been? How had our Laws, Liberties and Re<g ref="char:EOLhyphen"/>ligion been ſwallowed up in that fiery Gulph, and for ever buried in thoſe Aſhes? How would the Man of Sin, the Son of Perdition, have triumphed and re<g ref="char:EOLhyphen"/>joyced to have ſeen the Foundation of his Romiſh <hi>Jericho</hi> laid in the Ruines of our Engliſh <hi>Iſrael?</hi> But our God delivered us from the barbarous and bloody in<g ref="char:EOLhyphen"/>tendments of our adverſaries that time al<g ref="char:EOLhyphen"/>ſo; As he did his Church of old from the Bloody Conſpiracy of <hi>Haman,</hi> and brought the Plot upon their own heads; So that hitherto God hath ſaid, as in the Text, <hi>Curſed be thoſe that ſhall riſe up to build this</hi> Jericho.</p>
+               <p n="3">3. And yet they will not give over, but they will to work ſtill, and try once more. And their laſt (we pray and hope it will be their laſt) attempt was indeed
+<pb n="18" facs="tcp:50215:11"/>
+as fair for it, as any before.—For now they had gotten over a vaſt number of builders, Prieſts and Jeſuits, who were night and day employed to help the work forward in Court, City and Countrey. Some parts of <hi>Jericho</hi> they had erected, ſome Maſs-houſes they had ſet up in the City, and in many great Towns and Po<g ref="char:EOLhyphen"/>pulous places in the Countrey; which An<g ref="char:EOLhyphen"/>tichriſtian Conventicles were countenan<g ref="char:EOLhyphen"/>ced and upheld contrary to our known Laws; where the Prieſts with unheard of impudence decry'd the true Religion as Hereſy, and all Proteſtants as damn'd. Hereticks; Yea and moſt blaſphemouſly reproached our very Bibles (where our Religion, not theirs, is to be found) as falſe and ſpurious, preferring their own Old and Rotten Traditions before the Sacred Oracles, and the lying Legend of their Saints, before the Teſtament of the Holy Jeſus. Thus far, I ſay, were they gotten, which gave them great hopes their <hi>Jericho</hi> will now up again.—And which is more, they had now a zealous
+<pb n="19" facs="tcp:50215:11"/>
+King, a Puiſſant Prince on their ſide, who was able by his power, not only to Countenance, but in ſome meaſure to Command that <hi>Jericho</hi> ſhould be built, having brought over ſome of our Judges and Nobles to his Service, having at his Command a well furniſhed Exchequer, a vaſt annual Revenue, a formidable ſtanding Army, with a great number of inferiour Miſſionaries, that went from Countrey to Countrey to reform (as 'twas called) the Corporations, and to find out ſuch men for our Houſes of Parliament as ſhould <hi>abrogate</hi> and abo<g ref="char:EOLhyphen"/>liſh thoſe Laws that obſtructed them in the erecting of their Popiſh <hi>Jericho</hi> a<g ref="char:EOLhyphen"/>mongſt us; and all this gave them great hope it would be done. And in truth this Plot was ſo formed and ſo far pro<g ref="char:EOLhyphen"/>moted, that in their eyes 'twas beauti<g ref="char:EOLhyphen"/>ful as <hi>Abſolom,</hi> without defect or blemiſh from Head to Foot. And they were ſo taken with the Beauty and comlineſs of it (as <hi>Nebuchadnezzar</hi> was with his Gol<g ref="char:EOLhyphen"/>den Image) that they fell down before
+<pb n="20" facs="tcp:50215:12"/>
+it and worſhipped it. What was the mat<g ref="char:EOLhyphen"/>ter then that the building went not for<g ref="char:EOLhyphen"/>ward? Surely it muſt be this, that the curſe of God was upon it. Had there been ſo much pains taken, ſo much time and treaſure ſpent, to advance Gods Church and the true Religion, God would have bleſſed it; but the deſign was to build up myſtical <hi>Jericho,</hi> which God hath curſed, therefore it could not proſ<g ref="char:EOLhyphen"/>per, therefore all their power and policy could not bring it to perfection; for which our God is to be praiſed from generation to generation.</p>
+               <p n="2">2. Muſt not <hi>Jericho</hi> be built again? are the builders of it curſed before the Lord? Then let us be none of them. I hope none here preſent, e<g ref="char:EOLhyphen"/>ver had, or ever will have either heart or hand for this work, or any way contribute towards it: No, let us in our ſeveral Places and Capacities hear<g ref="char:EOLhyphen"/>tily oppoſe it, and do all, that law<g ref="char:EOLhyphen"/>fully we may, to hinder the build<g ref="char:EOLhyphen"/>ing
+<pb n="21" facs="tcp:50215:12"/>
+of it.—To this purpoſe,</p>
+               <p n="1">1. Let Magiſtrates Miniſter Juſtice Impartially, and duly Execute the Laws of this Kingdom againſt the builders of <hi>Jericho;</hi> Laws made on purpoſe to hinder that work, and to keep up and preſerve the true Church of God among us.</p>
+               <p n="2">2. Attend upon the Miniſtry of Gods word; this is a Light will diſcover the Errors of Popery<hi>:</hi> And though it ſeems but a Weak means or inſtrument yet like the Trumpets of Rams-horns, it will make the Walls of <hi>Jericho</hi> to reel. The Jeſuits, and Prieſts found this by late Experience; when by the Ser<g ref="char:EOLhyphen"/>mons and other Writings of our Di<g ref="char:EOLhyphen"/>vines, they were bafled and put to ſilence, yielding up their Paper Con<g ref="char:EOLhyphen"/>troverſy as a foundation too weak to bear up the tottering Walls of their <hi>Jericho.</hi>
+               </p>
+               <p n="3">
+                  <pb n="22" facs="tcp:50215:13"/>
+3. You that have Youth, Children or Servants, under your charge, inſtruct them in the grounds of Divinity and Principles of Chriſtian Religion. The Se<g ref="char:EOLhyphen"/>duction of many in this Nation to Pope<g ref="char:EOLhyphen"/>ry hath riſen from hence, their not be<g ref="char:EOLhyphen"/>ing well ſeaſoned with the grounds of true Religion.</p>
+               <p n="4">4. Encourage Learning what you can: For Popery is a Kingdom of darkneſs and ignorance, nothing Ruines it like knowledge. It firſt fell in this Nation with the beginning of good learning; and the continuance and encreaſe of this will keep it down; and therefore amongſt the reſt of the Contrivances of <hi>Jericho</hi>'s builders, this was one of the chief, to poyſon our Colledges, to propagate Popery in our moſt fa<g ref="char:EOLhyphen"/>mous Schools of Learning, and by a <hi rend="margQuotes">Malicious and Illegal Proſecution to have extinguiſhed, the brighteſt Lu<g ref="char:EOLhyphen"/>minaries of the Engliſh Church; to the end that the benighted people
+<pb n="23" facs="tcp:50215:13"/>
+might the more eaſily have been miſled into the pitfalls of Superſtition and Sla<g ref="char:EOLhyphen"/>very.</hi>
+               </p>
+               <p n="5">5. And becauſe they Love to fiſh in troubled Waters; and gain ground by diviſions: therefore let us labour to promote Peace and Union amongſt our ſelves; let us not differ and quar<g ref="char:EOLhyphen"/>rel, tear and devour one another for ſmall matters, but unite, be of one heart, of one mind, and love one another; leading Holy and Religi<g ref="char:EOLhyphen"/>ous Converſations, as becomes our Profeſſion. Popery ever thrives beſt in a Land of prophaneneſs; debauchery always did, and always will help forward Popery.</p>
+               <p n="6">6. Laſtly, one ſpecial means to pre<g ref="char:EOLhyphen"/>vent the riſe of <hi>Jericho</hi> is that which this day occaſions; thankfulneſs to God for the downfal of it; or a thankful remembrance of the great things God hath done for us. When we call to mind their attempts againſt us, and how God hath
+<pb n="24" facs="tcp:50215:14"/>
+croſſed and curſed them, it will make us love our own Religion (which God hath witneſſed by ſo many delive<g ref="char:EOLhyphen"/>rances) the better, and to hate theirs the more. Therefore <hi>let our Souls and all that is within us this day praiſe the</hi> 
+                  <note place="margin">Pſal. 10. 3.</note> 
+                  <hi>Lord,</hi> for all his mercies of this kind vouch<g ref="char:EOLhyphen"/>ſafed to us; and in an eſpecial man<g ref="char:EOLhyphen"/>ner for the glorious deliverance we this day commemorate: <hi>It is his doings, and it is marvellous in our Eyes; Not unto us therefore, not unto us, but to him be all the glory of it.</hi> But if we ſhall be unthankful for this and the like gracious preſervations; if the won<g ref="char:EOLhyphen"/>ders of Gods Love do not melt our hearts, and work in them a ſincere gra<g ref="char:EOLhyphen"/>titude to God, an hearty Love to Religion and an univerſal holineſs in our Converſations; if all the favours of our God towards us do not win us to a moſt conſtant, and Chearful Obedience to his holy commands, it will be juſt with God, that thoſe ad<g ref="char:EOLhyphen"/>verſaries ſhould ſtill prove goads in
+<pb n="25" facs="tcp:50215:14"/>
+our Sides, and thorns in our Eyes: Juſt with God to lay us open again to their enraged Malice and Hatred, and when we ſtand in need of deli<g ref="char:EOLhyphen"/>verance, to ſay to us as he did to <hi>Iſrael</hi> in diſtreſs, <hi>I will deliver you no</hi> 
+                  <note place="margin">Judg. 10. 13.</note> 
+                  <hi>more.</hi> Stir up your Souls therefore to thankfulneſs, and teſtify your gratitude, not only by words, but deeds; not on<g ref="char:EOLhyphen"/>ly by the fruits of holineſs, but alſo by works of Charity and Mercy<hi>:</hi> Your labour ſhall not be loſt; your coſt not caſt away, for God will re<g ref="char:EOLhyphen"/>ward you. Thus honour him, and he will honour you; thus bleſs him, and he will bleſs you; give him his praiſes due on Earth, and he will give you immortal renown in Hea<g ref="char:EOLhyphen"/>ven.</p>
+               <p n="3">3. And in the laſt place, to our praiſes for <hi>Jericho</hi>'s fall, let us add our prayers that it may riſe no more in our days, or in the days of our poſterity. In order to this let us pray,</p>
+               <p n="1">
+                  <pb n="26" facs="tcp:50215:15"/>
+1. That God would more and more diſcover and make known the abomi<g ref="char:EOLhyphen"/>nations of Romiſh <hi>Jericho,</hi> both in re<g ref="char:EOLhyphen"/>ſpect of their Religion and practice. That he would give all men amongſt us a more clear underſtanding of the errors of their Religion, of the Falſi<g ref="char:EOLhyphen"/>ty, Idolatry and Superſtition of it, which conſiſts of unwritten Traditions, diabolical Revelations and Illuſions: In fruitleſs Penances, and Pilgrimages; in antiſcriptural merits, praying to Saints and worſhiping of Images; in unlaw<g ref="char:EOLhyphen"/>ful Vows, Maſſes, indulgences and Diſ<g ref="char:EOLhyphen"/>penſations; that ſeeing the Errors of their Religion, we may abhor it, and Shun the Society of thoſe that pro<g ref="char:EOLhyphen"/>feſs it, and ſeek the Propagation of it.</p>
+               <p n="2">2. Pray that God would lay open to the view and obſervance of all men their ungodly practices<hi>:</hi> their pro<g ref="char:EOLhyphen"/>moting Diſcord and Diviſion in all Places and Societies; their impoſing new
+<pb n="27" facs="tcp:50215:15"/>
+Articles of Faith as neceſſary to Sal<g ref="char:EOLhyphen"/>vation; their abſolving ſome from law<g ref="char:EOLhyphen"/>ful Oaths and Vows, and obliging o<g ref="char:EOLhyphen"/>thers to themſelves and their cauſe by Vows and Oaths unlawful. <hi>That the all-ſeeing Eye, which beholds men in their moſt ſecret acts,</hi> would detect their bar<g ref="char:EOLhyphen"/>barous Homicides, and private Murders, and hear the cries of that innocent Blood which hath been ſhed both for<g ref="char:EOLhyphen"/>merly and lately, to enlarge the bor<g ref="char:EOLhyphen"/>ders of their <hi>Jericho;</hi> a diſcovery of which would do the cauſe of God this Ser<g ref="char:EOLhyphen"/>vice, to take off the hearts of many from them, and to leſſen their ſtrength and num<g ref="char:EOLhyphen"/>ber amongſt us.—And let us con<g ref="char:EOLhyphen"/>clude our prayers, as our Church hath taught us,<hi>—That God would ſcatter our Enemies that delight in blood, infatuate and defeat their Counſels, aſſwage their ma<g ref="char:EOLhyphen"/>lice and confound their devices, and ſtreng<g ref="char:EOLhyphen"/>then the hands of all that are in Authority with Judgment and Juſtice, to cut off all ſuch workers of iniquity, as turn Religion into Rebellion, and Faith into Faction; that</hi>
+                  <pb n="28" facs="tcp:50215:16"/>
+                  <hi>they may never prevail againſt us, or tri<g ref="char:EOLhyphen"/>umph in the Ruines of his Church amongſt us:</hi> That <hi>Babylon</hi> may never tread down <hi>Zion,</hi> nor <hi>Jericho</hi> boaſt her ſelf a Conque<g ref="char:EOLhyphen"/>ror over <hi>Jeruſalem; but that we, being pre<g ref="char:EOLhyphen"/>ſerved in the true Religion, may all our days ſerve him, and give him thanks in his holy Congregation, through Jeſus Chriſt our Lord.</hi> Amen.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:50215:16"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
